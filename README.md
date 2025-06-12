@@ -45,8 +45,10 @@ Brain tumor segmentation is essential for treatment planning and clinical decisi
 - Quantitative metrics and qualitative results provided in the notebook
 - Visualizations include Dice score comparisons and segmentation overlays
 
-![image](https://github.com/user-attachments/assets/d505d53d-9995-4685-9877-14bbadfab3c1)
-
+      Final Scores:
+        - Training Accuracy: 0.99, Validation Accuracy: 0.99
+        - Training Loss: 0.042, Validation Loss: 0.038
+        - Training Dice Coeff: 0.401, Validation Dice Coeff: 0.407
 
 ## 🔍 Future Work
 - Incorporate transformer-based models (e.g., Swin UNET)
