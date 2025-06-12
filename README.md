@@ -50,6 +50,9 @@ Brain tumor segmentation is essential for treatment planning and clinical decisi
         - Training Loss: 0.042, Validation Loss: 0.038
         - Training Dice Coeff: 0.401, Validation Dice Coeff: 0.407
 
+![image](https://github.com/user-attachments/assets/b86e19d3-d5c3-44b1-94a6-705591a682f3)
+
+
 ## 🔍 Future Work
 - Incorporate transformer-based models (e.g., Swin UNET)
 - Evaluate performance on other datasets (BraTS 2021, TCIA)
