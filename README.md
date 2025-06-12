@@ -4,6 +4,8 @@
 ## 📌 Overview
 This repository presents a deep learning-based approach to brain tumor segmentation using multimodal MRI scans. We implement and compare two fusion strategies—Input-Level Fusion and Feature-Input Fusion—based on a U-Net architecture. The project utilizes the BraTS 2020 dataset for training and evaluation.
 
+**Note:** __*There are many implementation files in this repository which are basically for long term implementation works in different approaches for improvement.*__
+
 ## 🧠 Motivation
 Brain tumor segmentation is essential for treatment planning and clinical decision-making. Manual annotation is labor-intensive and subjective, motivating the need for automated methods. This project addresses the challenges of tumor heterogeneity and modality differences by leveraging multimodal data fusion.
 
